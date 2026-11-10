@@ -19,7 +19,7 @@ WHAT IS IN THE FILE
 Everything. The map, its styling and all of its data are inside the file itself,
 which is why it works offline and why you can copy it anywhere.
 
-This map is 8.7 MB and contains 25 map features.
+This map is 8.8 MB and contains 25 map features.
 
 
 PRIVACY
@@ -53,4 +53,4 @@ Codex can edit it for you: ask it to read the file and change what you want.
   Guides:   https://docs.nikaplanet.com
   Hosting:  https://www.nikaplanet.com/onlymap
 
--- QGIS2WebMap by NIKA, OnlyMap runtime 0.13.1 (sha256 d224ea889c64b3f3)
+-- QGIS2WebMap by NIKA, OnlyMap runtime 0.13.3 (sha256 c0c90fd50eeb80c3)
